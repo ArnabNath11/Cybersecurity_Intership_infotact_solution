@@ -15,7 +15,7 @@ Each project demonstrates practical, hands-on experience in vulnerability assess
   * Mitigation Strategies
 
 **Status**: Completed ✅
-[View Project Report]
+[View Project Report](https://github.com/ArnabNath11/Cybersecurity_Intership_infotact_solution/blob/main/Infotact-Internship-Projects/Project%201%20-%20Basic%20Vulnerability%20Assessment/Reports/project%201%20-%20basic%20vulnerability%20report.pdf)
 ---
 
 ### 2. **Web Application Penetration Testing (OWASP Top 10 Focus)**
