@@ -68,30 +68,7 @@ Each project demonstrates practical, hands-on experience in vulnerability assess
 | **Cloud Deployment**       | AWS Free Tier, DigitalOcean        |
 | **Documentation**          | Word, Google Docs, GitHub Pages    |
 
-## Repository Structure
 
-```plaintext
-├── Project 1 - Basic Vulnerability Assessment/
-│   ├── Reports/
-│   │   └── Vulnerability Assessment Report.pdf
-│   ├── Network Scans/
-│   │   ├── nmap-scan.xml
-│   │   └── nmap-report.html
-├── Project 2 - Web Application Penetration Testing/
-│   ├── Exploits/
-│   │   ├── Screenshots here
-│   ├── Reports/
-│   │   └── Web Application Penetration Testing Report.pdf
-├── Project 3 - Secure Linux Server Setup/
-│   └── Checklist.md
-└── README.md
-```
-
-## How to Use This Repository
-
-1. Navigate to the respective project folder for detailed documentation and deliverables.
-2. Reports and findings are available in PDF format for review.
-3. Use the provided reports and PoCs for reference in your own projects or studies.
 
 ## Contact
 
