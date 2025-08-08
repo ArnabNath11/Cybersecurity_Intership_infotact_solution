@@ -34,7 +34,7 @@ Each project demonstrates practical, hands-on experience in vulnerability assess
   * Remediation Guidelines
 
 **Status**: Completed ✅
-[View Project Report]
+[View Project Report](https://github.com/ArnabNath11/Cybersecurity_Intership_infotact_solution/blob/main/Infotact-Internship-Projects/Project%202%20-%20Web%20Application%20Penetration%20Testing/Report/web%20application%20project%202%20final%20report.pdf)
 
 
 ---
