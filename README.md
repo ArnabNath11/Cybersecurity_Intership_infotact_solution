@@ -1,7 +1,6 @@
 # Cybersecurity_Intership_infotact_solution
 
-This repository showcases the projects I completed during my 3-month internship as a Security Admin Associate L1.
-Each project demonstrates practical, hands-on experience in vulnerability assessments, penetration testing, and server hardening, aligned with industry security standards.
+I recently completed a 3-month internship at Infotact Solution, where I worked on practical cybersecurity projects including vulnerability assessments, penetration testing, and server hardening.
 ## Projects Overview
 
 ### 1. **Basic Vulnerability Assessment for a Small Business Network**
